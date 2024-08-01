@@ -1,0 +1,29 @@
+.heading{
+    text-align: center;
+    color: navy;
+}
+
+.images{
+    margin-top: 100px;
+    margin-left: 450px;
+    display: flex;
+    gap: 20px;
+}
+
+#img1
+{
+    height: 200px;
+    width: 200px;
+}
+
+#img2
+{
+   height: 200px;
+   width: 200px;
+}
+
+
+#img3{
+    height: 200px;
+    width : 200px;
+}
