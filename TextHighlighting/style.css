@@ -1,0 +1,16 @@
+.container{
+    border: 2px solid lightcoral;
+    margin-top : 200px;
+}
+
+#para{
+    padding: 20px;
+}
+
+#heading{
+    text-align: center;
+}
+
+.bgcyellow{
+    background-color: yellow;
+}
