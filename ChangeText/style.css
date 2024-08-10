@@ -1,0 +1,11 @@
+#heading{
+    color: navy;
+    text-align: center;
+}
+
+#btn{
+    padding: 20px;
+    border: 4px solid black;
+    margin-left: 700px;
+    margin-top: 200px;
+}

@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+    color: navy;
+}
+
+#hello{
+    border-radius: 2%;
+    border: 2px solid black;
+    margin-top: 250px;
+    padding: 20px; 
+    margin-left: 650px;
+}
+

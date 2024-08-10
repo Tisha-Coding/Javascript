@@ -1,0 +1,32 @@
+.container
+{
+    border: 2px solid black;
+    display: inline-block;
+    /* align-items: center; */
+    padding: 20px;
+}
+
+body{
+    margin-top: 300px;
+    margin-left: 600px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#errormessage
+{
+    color: red;
+}
+
+#successmessage
+{
+    color: green;
+}
+
+
+
+

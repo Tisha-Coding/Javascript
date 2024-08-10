@@ -1,0 +1,43 @@
+#main{
+    border: 2px solid black;
+    display: inline-block;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-left: 600px;
+}
+
+
+#decrement{
+    margin-right: 10px;
+}
+
+#increment{
+    margin-left: 10px;
+}
+
+#counter{
+    border: 2px solid black;
+    padding: 1px;
+}
+
+.container{
+    margin: 10px;
+}
+
+#reset
+{
+    margin-top: 20px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    
+   background-color: #f0f0f0;
+}
+
